@@ -92,13 +92,31 @@
       <option name="project" value="LOCAL" />
       <updated>1742483140240</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Sümeyye JavaFX">
+      <option name="closed" value="true" />
+      <created>1742483839588</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742483839588</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="fb903a31-1185-45f0-b8aa-b5f84c4759e9" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="fb903a31-1185-45f0-b8aa-b5f84c4759e9">
           <value>
             <State />
           </value>
