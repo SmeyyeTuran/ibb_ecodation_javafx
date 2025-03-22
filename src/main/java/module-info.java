@@ -10,6 +10,6 @@ module com.sumeyyeturan.ibb_ecodation_javafx {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
 
-    opens com.sumeyyeturan.ibb_ecodation_javafx to javafx.fxml;
-    exports com.sumeyyeturan.ibb_ecodation_javafx;
+    opens com.sumeyyeturan to javafx.fxml;
+    exports com.sumeyyeturan;
 }
